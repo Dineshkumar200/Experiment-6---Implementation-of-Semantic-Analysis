@@ -37,7 +37,7 @@ def read_text_file(file_path):
         text = file.read()
     return text
 
-file_path = 'ias1.txt'  # Replace with the path to your text file
+file_path = 'text_file.txt'  # Replace with the path to your text file
 text = read_text_file(file_path)
 
 def get_verbs(text):
@@ -72,7 +72,8 @@ for verb, data in verb_synonyms_antonyms.items():
 
 ```
 ## OUTPUT
-![Screenshot (562)](https://github.com/kumaranricky/Experiment-6---Implementation-of-Semantic-Analysis/assets/75243072/994f8f5e-5a6d-4398-a426-11d98fb49646)
+![Screenshot 2023-06-05 124449](https://github.com/Dineshkumar200/Experiment-6---Implementation-of-Semantic-Analysis/assets/75235789/e1234a46-4a7c-4fea-8a6f-6fef43c18767)
+
 
 ## RESULT
 Thus, we have successfully implemented a program for Natural Language Processing.
