@@ -1,4 +1,9 @@
-# Program to Identify Verbs and Provide Synonyms using Natural Language Processing
+### EX NO: 06
+
+### DATE: 01/06/2023
+
+
+# <br/><p align = "center">Implementation of Semantic Analysis </p> 
 
 ## AIM
 Construct a Python program to read a text from a file. Identify the verbs from the text file and provide synonyms for all verbs using Natural Language Processing.
@@ -75,5 +80,5 @@ for verb, data in verb_synonyms_antonyms.items():
 ![Screenshot 2023-06-05 124449](https://github.com/Dineshkumar200/Experiment-6---Implementation-of-Semantic-Analysis/assets/75235789/e1234a46-4a7c-4fea-8a6f-6fef43c18767)
 
 
-## RESULT
+## <br><br><br><br>RESULT
 Thus, we have successfully implemented a program for Natural Language Processing.
